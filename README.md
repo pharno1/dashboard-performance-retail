@@ -7,6 +7,7 @@ This project transforms raw Excel sales data into an interactive dashboard using
 The objective is to track the performance of retail stores through key business indicators such as revenue, orders, average basket, and performance vs budget or previous year.
 
 ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ton-sous-domaine.streamlit.app)
 ## 📷 Aperçu du dashboard
 
 ![Dashboard](screenshot_dashboard.png)
