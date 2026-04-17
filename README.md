@@ -7,7 +7,9 @@ This project transforms raw Excel sales data into an interactive dashboard using
 The objective is to track the performance of retail stores through key business indicators such as revenue, orders, average basket, and performance vs budget or previous year.
 
 ---
+## 📷 Aperçu du dashboard
 
+![Dashboard](screenshot_dashboard.png)
 # 🚀 Project Overview
 
 The project follows a simple modern data architecture:
